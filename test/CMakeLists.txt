@@ -1,0 +1,6 @@
+add_subdirectory(x01-virtual)
+add_subdirectory(x02-test-virtual)
+add_subdirectory(x03-template)
+add_subdirectory(x04-extern-template)
+add_subdirectory(x05-virtual-proxy)
+add_subdirectory(x06-monkey-patch)
